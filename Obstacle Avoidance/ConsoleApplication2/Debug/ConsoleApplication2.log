@@ -1,0 +1,13 @@
+﻿  Source.c
+Source.obj : error LNK2019: unresolved external symbol __imp__connect_comm referenced in function _open_comport
+Source.obj : error LNK2019: unresolved external symbol __imp__disconnect_comm referenced in function _main
+Source.obj : error LNK2019: unresolved external symbol __imp__getSonarSensorArray referenced in function _main
+Source.obj : error LNK2019: unresolved external symbol __imp__setSonarSensorON referenced in function _main
+Source.obj : error LNK2019: unresolved external symbol __imp__forward referenced in function _main
+Source.obj : error LNK2019: unresolved external symbol __imp__setAcceleration referenced in function _set_motor_parameters
+Source.obj : error LNK2019: unresolved external symbol __imp__setMode referenced in function _set_motor_parameters
+Source.obj : error LNK2019: unresolved external symbol __imp__setSafety referenced in function _set_motor_parameters
+Source.obj : error LNK2019: unresolved external symbol __imp__setVelocity_meterspersec referenced in function _main
+Source.obj : error LNK2019: unresolved external symbol __imp__setSafetyTimeout referenced in function _set_motor_parameters
+FireBirdCLibrary.lib : warning LNK4272: library machine type 'x64' conflicts with target machine type 'x86'
+C:\Users\HP-PC-SD\source\repos\ConsoleApplication2\Debug\ConsoleApplication2.exe : fatal error LNK1120: 10 unresolved externals
