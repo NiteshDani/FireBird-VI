@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32210.238
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Wall Following", "Wall Following\Wall Following.vcxproj", "{76324EE4-0E0F-46BA-AE0C-8B38AB7C6788}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{76324EE4-0E0F-46BA-AE0C-8B38AB7C6788}.Debug|x64.ActiveCfg = Debug|x64
+		{76324EE4-0E0F-46BA-AE0C-8B38AB7C6788}.Debug|x64.Build.0 = Debug|x64
+		{76324EE4-0E0F-46BA-AE0C-8B38AB7C6788}.Debug|x86.ActiveCfg = Debug|Win32
+		{76324EE4-0E0F-46BA-AE0C-8B38AB7C6788}.Debug|x86.Build.0 = Debug|Win32
+		{76324EE4-0E0F-46BA-AE0C-8B38AB7C6788}.Release|x64.ActiveCfg = Release|x64
+		{76324EE4-0E0F-46BA-AE0C-8B38AB7C6788}.Release|x64.Build.0 = Release|x64
+		{76324EE4-0E0F-46BA-AE0C-8B38AB7C6788}.Release|x86.ActiveCfg = Release|Win32
+		{76324EE4-0E0F-46BA-AE0C-8B38AB7C6788}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D2636950-DA22-42F5-8194-68C4683684CE}
+	EndGlobalSection
+EndGlobal
